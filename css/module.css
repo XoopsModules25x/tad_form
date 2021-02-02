@@ -1,0 +1,52 @@
+.date {
+	background-color: #EFEFEF;
+	color: #483D8B;
+	padding: 4px;
+}
+
+.start_date {
+	color: rgb(0, 51, 255);
+}
+
+.end_date {
+	color: rgb(153, 0, 0);
+}
+
+.button {
+	padding: 5px;
+	font-size: 0.75em;
+}
+
+.note {
+	color: rgb(102, 102, 51);
+}
+
+.question {
+	color: rgb(153, 0, 0);
+	font-weight: bolder;
+	font-size: 1em;
+}
+
+td.q_col {
+	padding: 4px 6px 0px 6px;
+	background-color: rgb(222, 228, 243);
+}
+
+.show_col {
+	background-color: white;
+}
+
+.btn-group-xs>.btn,
+.btn-xs {
+	padding: 1px 5px;
+	font-size: 0.8em;
+	line-height: 1.5;
+	border-radius: 3px;
+}
+
+#result td, #result th{
+	min-width: 150px;
+	max-width: 400px;
+	word-break: break-all;
+	white-space:pre-wrap;
+}
